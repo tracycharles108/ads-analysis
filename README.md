@@ -18,15 +18,16 @@ I created this project to deepen my understanding of machine learning models and
 
 I used `matplotlib.pyplot` and `seaborn` to make data visualizations. Visualizations shown here are just some of the ones created on this project.
 
-![image](https://user-images.githubusercontent.com/81223941/160311291-447924b9-d48f-425a-9a19-89372f5fbb74.png)
-![image](https://user-images.githubusercontent.com/81223941/160311364-fbaff2ec-7067-4a72-9da1-d1c582bf6c90.png)
-![image](https://user-images.githubusercontent.com/81223941/160311321-a213f81f-ec16-4f3b-8092-33a951ad2c73.png)
+![image](https://user-images.githubusercontent.com/81223941/160312097-00d9efab-ab3b-4cbf-8eaf-ea5e3110e61e.png)
+![image](https://user-images.githubusercontent.com/81223941/160312132-2aef77c2-fb14-4916-9b0a-a12d4f5cc9d1.png)
+![image](https://user-images.githubusercontent.com/81223941/160312199-b02af0ae-d97c-4bad-a32d-2ec556decbd0.png)
 
 ## Resources Used
 
 I looked at several sources to understand how the models work and how I can improve them. They are linked here:
 
 https://medium.com/analytics-vidhya/prediction-and-data-visualization-of-breast-cancer-using-k-nearest-neighbor-knn-classifier-df7adadc4872
+
 https://www.upgrad.com/blog/random-forest-classifier/
 
 ## Limitations
